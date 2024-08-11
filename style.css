@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Sankofa+Display&display=swap');
+
+body{
+    background-color: green;
+    color: white;
+    .sankofa-display-regular {
+        font-family: "Sankofa Display", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 30px;
+      }
+      
+}
